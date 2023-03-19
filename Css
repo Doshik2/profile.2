@@ -1,0 +1,28 @@
+html{
+    background-color: green;
+}
+header {
+    background-color: #333;
+    height: 50px;
+    border: 1px solid #ddd;
+}
+nav {
+    display: flex;
+    box-align: right;
+  }
+  
+nav a {
+    color: #fff;
+    text-decoration: none;
+    white-space: nowrap;
+    margin-right: 20px;
+    font-size: 20px;
+    line-height: 2em;
+}
+#gh{
+    text-align: center;
+}
+#vb{
+    border: 3px solid black;
+}
+
